@@ -4,7 +4,7 @@ Ukazka pouzitia bloku kodu.
 class BlockTest {
     public static void main(String args[]) {
         int x, y;
-        y = 20;
+        y = 2
 
         //cielom nasledujucej smycky je blok kodu
         for(x = 0; x < 10; x++) {
