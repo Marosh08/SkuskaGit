@@ -1,4 +1,4 @@
 public class SkuskaGit {
 }
 
-//halo
+//toto nieje dobry komentar
